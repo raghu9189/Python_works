@@ -1,5 +1,6 @@
 from selenium import webdriver
 
+#we need to set chrome webdriver
 chromedriver = 'C:\Users\Lenovo\Desktop\Project_python\chromedriver'
 driver = webdriver.Chrome(chromedriver)
 
